@@ -5,6 +5,8 @@
 > **Kişisel ve ticari olmayan her kullanım serbest.** Ticari bir şeyin içinde ya da
 > yanında kullanmak için hak sahibinden izin gerekir — bkz. [LICENSE](LICENSE).
 
+![önizleme](onizleme.png)
+
 macOS'un uykuya geçmesini engelleyen menü çubuğu aracı. Ekran kapansa da,
 kapak kapansa da uyumaz. Süre verilirse zamanı dolunca kendiliğinden normale döner.
 
