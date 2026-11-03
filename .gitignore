@@ -1,0 +1,5 @@
+uyku-menu
+uyku-paneli
+*.o
+*.dSYM
+.DS_Store
